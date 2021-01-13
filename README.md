@@ -1,7 +1,7 @@
 # Ask Google
 A simple app that 
 - takes the question with a voice record,
-- the prints the question,
+- prints the question,
 - searches on google,
 - prints the search result,
 - reads it as output audio.
